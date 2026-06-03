@@ -29,9 +29,9 @@ Every solution file contains:
 
 | Platform | Solved |
 |---|---|
-| LeetCode | 3 |
+| LeetCode | 5 |
 | Codeforces | 4 |
-| **Total** | **7** |
+| **Total** | **9** |
 
 ---
 
