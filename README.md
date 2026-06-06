@@ -29,7 +29,7 @@ Every solution file contains:
 
 | Platform | Solved |
 |---|---|
-| LeetCode | 9 |
+| LeetCode | 10 |
 | Codeforces | 7 |
 | **Total** | **16** |
 
