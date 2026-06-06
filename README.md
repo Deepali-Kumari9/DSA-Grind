@@ -30,8 +30,8 @@ Every solution file contains:
 | Platform | Solved |
 |---|---|
 | LeetCode | 11 |
-| Codeforces | 7 |
-| **Total** | **18** |
+| Codeforces | 8 |
+| **Total** | **19** |
 
 ---
 
