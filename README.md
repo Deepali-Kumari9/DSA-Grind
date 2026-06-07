@@ -1,6 +1,6 @@
 # 🧠 DSA-Grind
 
-A collection of my daily DSA solutions from LeetCode and Codeforces.  
+A collection of my daily DSA solutions from LeetCode and Codeforces and CodeChef.  
 Solving consistently to build strong problem-solving skills from the ground up.
 
 ---
@@ -11,6 +11,7 @@ Solving consistently to build strong problem-solving skills from the ground up.
 |---|---|
 | `LeetCode/` | LeetCode problems |
 | `Codeforces/` | Codeforces problems |
+| `CodeChef/` | CodeChef problems |
 
 ---
 
