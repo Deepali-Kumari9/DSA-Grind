@@ -32,8 +32,8 @@ Every solution file contains:
 |---|---|
 | LeetCode | 16 |
 | Codeforces | 12 |
-| CodeChef | 5 |
-| **Total** | **32** |
+| CodeChef | 6 |
+| **Total** | **33** |
 
 ---
 
