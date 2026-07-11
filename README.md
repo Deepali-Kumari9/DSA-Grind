@@ -32,7 +32,7 @@ Every solution file contains:
 |---|---|
 | LeetCode | 80 |
 | Codeforces | 39 |
-| CodeChef | 34 |
+| CodeChef | 35 |
 | **Total** | **150** |
 
 ---
