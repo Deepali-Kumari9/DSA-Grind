@@ -30,7 +30,7 @@ Every solution file contains:
 
 | Platform | Solved |
 |---|---|
-| LeetCode | 99 |
+| LeetCode | 100 |
 | Codeforces | 47 |
 | CodeChef | 46 |
 | **Total** | **191** |
