@@ -31,7 +31,7 @@ Every solution file contains:
 | Platform | Solved |
 |---|---|
 | LeetCode | 108 |
-| Codeforces | 51 |
+| Codeforces | 52 |
 | CodeChef | 51 |
 | **Total** | **208** |
 
